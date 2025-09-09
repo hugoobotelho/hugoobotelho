@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá 👋🏻! Sejam bem-vindos. Me chamo Hugo, faço Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) e, atualmente, estou no sexto semestre do curso. Sou um desenvolvedor full stack em formação, com experiência acadêmica e pessoal no desenvolvimento de aplicações web e mobile. Tenho conhecimento sólido em Java, React, React Native, Typescript e Kotlin, além de experiência na modelagem e implementação de banco de dados com PostgreSQL.
+Olá 👋🏻! Sejam bem-vindos. Me chamo Hugo, faço Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) e, atualmente, estou no sétimo semestre do curso. Sou um desenvolvedor full stack em formação, com experiência acadêmica e pessoal no desenvolvimento de aplicações web e mobile. Tenho conhecimento sólido em Java, React, React Native, Typescript e Kotlin, além de experiência na modelagem e implementação de banco de dados com PostgreSQL.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/hugo-botelho-8488ba27b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
