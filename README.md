@@ -2,12 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá 👋🏻! Sejam bem-vindos. Me chamo Hugo, faço Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) e, atualmente, estou no sétimo semestre do curso. Sou um desenvolvedor full stack em formação, com experiência acadêmica e pessoal no desenvolvimento de aplicações web e mobile. Tenho conhecimento sólido em Java, React, React Native, Typescript e Kotlin, além de experiência na modelagem e implementação de banco de dados com PostgreSQL.
+Olá 👋🏻! Sejam bem-vindos. Me chamo Hugo, faço Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) e, atualmente, estou no 8° semestre do curso. Sou um desenvolvedor full stack em formação, com experiência acadêmica e pessoal no desenvolvimento de aplicações web e mobile. Tenho conhecimento sólido em Java, Spring Boot, React, React Native, Typescript e Kotlin, além de experiência na modelagem e implementação de banco de dados com PostgreSQL.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/hugo-botelho-8488ba27b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hugobotelhosantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/hugo-botelho-8488ba27b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:hugobotelhosantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/hugoobotelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://portifolio-dev-orpin.vercel.app/pt">  <img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -21,6 +22,14 @@ Olá 👋🏻! Sejam bem-vindos. Me chamo Hugo, faço Ciência da Computação n
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
